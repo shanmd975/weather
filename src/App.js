@@ -53,7 +53,7 @@ function App() {
           <div className="shadow rounded wetherResultBox">
             <img className="weatherIcon"
               src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png" alt="A beautiful sunset over the ocean"/>
-
+              
             <h5 className="weatherCity">
               {data?.name}
             </h5>
